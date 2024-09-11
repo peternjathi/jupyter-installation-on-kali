@@ -33,7 +33,7 @@ Install jupyter-notebook on linux
 [Click here](https://jupyter.org/install)
 
 
-## Authors
+## Authors.
 
 - [@peternjathi](https://www.github.com/peternjathi)
 
