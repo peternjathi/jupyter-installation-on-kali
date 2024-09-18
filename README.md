@@ -7,7 +7,7 @@
 Follow this simple steps to to install jupyter notebook on kali linux.
 
 
-## Installation
+## Installation.
 
 Install jupyter-notebook on linux
 - run 
