@@ -3,7 +3,7 @@
 
 ```
 ```
-#  How to Install jupyter notebook 
+#  How to Install jupyter notebook.
 Follow this simple steps to to install jupyter notebook on kali linux.
 
 
