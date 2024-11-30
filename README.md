@@ -26,7 +26,7 @@ Install jupyter-notebook on linux.
 ```bash
 4. $ jupyter notebook
  ```
-## Documentation.
+## Documentation
 
  Documentation for the above Steps.
 
