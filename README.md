@@ -1,4 +1,8 @@
-
+## Add new user to Root.
+```bash
+sudo usermod -a -G sudo <username>
+sudo adduser <username> sudo
+```
 ![Logo](https://chrome22.s3.us-west-2.amazonaws.com/nokyy.png)
 
 ```
